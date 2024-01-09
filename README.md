@@ -4,4 +4,5 @@ These resources refer to the paper "Event-driven Sentiment Drift Analysis in Tex
 * drifts.csv - File with the drift-generator events;
 * negative.txt - List of negative terms considered by the lexicon-based classifier;
 * positive.txt - List of positive terms considered by the lexicon-based classifier;
-* stopwords.txt - Brazilian Portuguese stopwords.
+* stopwords.txt - Brazilian Portuguese stopwords;
+* sci_vs_colocolo_with_id.csv - Dataset with text and ids.
